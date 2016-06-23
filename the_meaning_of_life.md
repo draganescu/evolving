@@ -1,0 +1,35 @@
+#The meaning of life
+
+The reason for our existence is to defeat time, in life’s eternal battle with it.
+
+Each death, from a random cell to a random human, is the victory of time in a small battle with life.
+
+There is only one goal in evolution: to develop time resilient beings.
+
+General intelligence is a defence mechanism against time, just like metabolism, immunity, or the perpetual growth that makes us old and fragile.
+
+Time creates more entropy. The natural effect of the passage of time is disorder: things fall apart. Yet, if there is one thing that can be said about life, in any form, that thing is order reigns. All forms of life have such particular configurations, that the slightest update gives fatal results. The low entropy in living systems is a state-of-the-art set of rules, which became possible in the original element soup formed on the surface of young Earth. We are essentially that single point of existence that the big bang originated from, because that is absolute order: everything — not contained but described by one dimensionless point.
+
+Life as a phenomenon happens when you have enough entropy in a small enough space region. It is as if life is the cancer of time. Time creates this entropy that suddenly falls into the most perfectly ordered system which in turn starts moving in the reverse direction of time, from chaos to rules. We are created by time and now we fight it inside our every cell.
+
+Time is the probability function that turns possibilities into events.
+
+Given enough possibilities there is one event which is the reverse of time. A function of inverse probability that turns events into possibilities. Time creates the past, while life creates the future.
+
+But while time acts globally, life acts locally. It is a niche which is also the secret of its resilience. Life doesn't intend to perfect everything, but just life itself. Time creates the past of the universe, while life creates the future of life. Because time acts globally, life must protect itself by making a perpetual, self sustaining process, to guard its local order from time’s global disorder.
+
+The void has in theory the highest level of entropy. Matter randomly spawns into existence, then back into non existence. Can’t get any more chaotic than that.
+
+Life is mathematically bound to happen given enough entropy and a precisely sized space region. The moment life appears evolution proceeds. Evolution is the formula of the inverse probability function that life is. Evolution is self referential. Given a wide enough spread it then starts to self sustain perfecting ways to conserve local stability.
+
+Think about it. Life spawned out of lifeless matter and kept adding features. Since it has no preset direction, nor an intelligent goal, then it means that the sole reason for evolving was to increase the span of time life lasted.
+
+The ultimate goal of our intelligence is to live forever.
+
+All the ethical and philosophical problems connected to living forever simply crumble when the possibility of living forever arises. When it is just theoretical, we can find fault in it, but when it is actually a thing then we have in sight, it suddenly makes all the sense in the world. It does because that’s what we were created for: to outsmart decay and somehow self conserve.
+
+The first thing we conserve is life itself. We reproduce and have a strong binding to this. Even without children all sane people support this perpetuity of genetic material somehow, they help the ones that have children. Everything truly evil is that which tries to irreversibly stop life, life itself or its diversity. For example the holocaust was the evil, not the war itself; the long term effects of an atomic bomb are evil, not the tactical decision to use it; killing entire species is evil, not eating meat.
+
+The apparent freedom that comes with our general intelligence is the real treasure. Life will not stop if we, as a species, fail. But as a self referencing system it will not produce us again. If we fail, we are gone for eternity. We don't only gamble our faith, but the faith of this system itself, the system of reason and emotions, of artistic expression as way of creation, the system of non hormonal emotions and very low chemical conditioning, the feeling of freedom and the ability to act upon it. Our failure will be the feedback that loosely regulated systems don't handle time well.
+
+It is heavy to realise, but we are inside a giant mathematical thing which keeps going. It doesn't “learn”, it simply keeps on executing based on input. We should be careful what we feed into the inverse probability function which creates the future. Our future.
