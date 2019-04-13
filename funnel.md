@@ -228,5 +228,3 @@ All the vectors of change propose a dialog. The dialog is between humans and the
 
 Indeed, life is worth living!
 
-Thank you for reading and please recommend, respond or share. I am curious to know what you think and any input will find its way into future revisions of the article. Find me on twitter @andraganescu.
-
