@@ -1,55 +1,104 @@
 How to replicate a “self”
+
 Because we are biological systems it is, I believe, imperative that there is some basic and reusable system at the core of the entire construct. Outside of intelligent design, evolution, as the tool of life, can only abstract more and more of the same basic things available naturally.
+
 Hence, even though intelligence, the brain, the mind, personality and consciousness look like separate parts of a fine tuned system, they must not be so. It must be that there is one basic thing which sparked in the original neuronal systems and had a positive impact on the species’ hope for the future. This process began then to compound and create more and more complex forms of itself: from a simple electric transmission to full blown awareness.
+
 In any effort of creating some viable and intelligent evolutionary next step, like AI, we require this assumption of common basic thing to be true. Documenting how can this be approached, I came across two theories that, when combined, produce this hypothetical fractal, building up intelligent life. The first theory is that of the “memory-prediction framework” by Jeff Hawkins, described in his “On Intelligence” 2004 book, and the second one is the “dynamic approach to cognition”, described in “Mind as motion” by Robert F. Port and Timothy van Gelder in 1995.
+
 First, both theories place time in the middle of our problem.
+
 The memory-prediction framework finds that the evolution’s goal in coming up with the brain is to predict the future. Good call! The predictions come from a hierarchical memory system, where some stand alone sensory input is matched against a previously known sequence of information. Unlike simple tape which has ordered bytes and searching for something would require scanning the whole thing, our memory is organised in layers. Every search request moves seek operations up and down these floors of abstraction inside our minds. As sequences containing the searched item are identified, all other layers are notified via feed forward and feed back mechanisms. The goal of the entire effort is to predict the next environment change from learned experience.
+
 The dynamic approach to cognition is a mathematical approach to how the mind works, with the means offered by the dynamical systems theory. In this approach the mind is a system that has a state at any moment, that changes in time giving rise to a behaviour and encompassing a state space containing all the states the system could be in.
+
 Both theories separately attempt to explain everything but in reality they complement each other. The dynamic approach to cognition describes how the internal software of the brain operates and i believe it to be true because having dynamics, aka log and choose functions, as a mathematical foundation means we have: vectors and vector fields and basic properties of an electric biological computer and that makes a lot of sense. The memory-prediction framework describes how the output of the brain’s software execution is stored and operated inside the neocortex, aka the personality, and I believe it to be true because it is a layered description of the mind, rooted in a “designed by chance” approach on building information storage in a biologically evolved system.
+
 Combining these two approaches will allow us to build the AI we’re so much looking forward to. We need to combine them because atemporal machines, moving in discrete time chunks, will never be intelligent, only smart and also machines without a traceable evolution, a personality, will never come close to artificial intelligence, but instead only succeed at problem solving with human readable output.
+
 We hence may consider that the two functions the brain continuously executes, log and choose, are two vector-valued functions L and C, as follows:
+
 L(t, p, c) = <G(p, t), W(c, t)>
+
 where: L is log, t is time, p is precise input, c is context input, G is grammar and W is will.
+
 C(t, i, e) = <A(i, t), P(e, t)>
+
 where: C is choose, t is time, i is imprecise input, e is environment input, A is art and P is perception.
 I highly doubt we have a “hardware” perception of three dimensional space as I believe evolution to not require more than a simple cartesian system for reality perception. Because of this our vector valued functions above have only two coordinate generating functions.
+
 These two functions are called continuously in a never ending loop, producing various vectors. These vectors are composing the local system’s state. States are saved by learning. As states are composed into groups as behaviours, we have matrices filled with vectors resulting from previous L and C executions. A personality is an overall vector field, composed of all the vectors output by the log and choose functions, each vector pointed, in sequential order, at the values output by the basic algorithms of the mind: art, will, grammar and perception.
+
 The “experience”, which means the reaction and interaction of the intelligent system with the outside world, is a dynamical system which has the goal of predicting the future as good as it can. It will employ the hierarchical memory for all known states and a dynamic vector field behaviour for creating new states.
+
 The hierarchical memory is built by the process of association, creating associative memories. It is a biologically mysterious process, but easy to be replicated as a unique key generating function.
+
 For us humans, there are a bunch of problems regarding association. First there is an obvious way to become stale as a person because of it: if your keys are not unique enough. What to do to challenge that?
+
 Key granularity depends heavily on diversity and variation. If the experience is diverse and varied the keys produced by association are very granular and somewhat systematically manageable. You really require variation. Diversity alone will be learned by itself. In simple words it means you require new stories, not only new actors, to create accessible and fresh caching keys through association.
+
 Experience is a twofold discovery journey. You discover the world but you also discover yourself. The catch is that you discover yourself because you don’t exist before you experience the experience that defines you.
+
 Being a self referential system the experience experiences itself, giving rise to complexity in the form of communication, ego, emotions, sentiments, sensations and thoughts, anger, angst and pain. All these complex and highly abstract components of the experience can be decomposed to previous states and individual values in the system.
+
 As a being caught in this loop of experience, a good metaphor for what we call the human spirit, not soul, the spirit, that which is uniquely human, could be the night sky. Each and every star is something you lived, something you’ve experienced. You, the real you, are here “inside” of this huge dark sphere of glittering experiences, an unable spectator of the life and death of stars far, far away.
+
 Complexity is not complicated.
+
 Affirmations need confirmations. Questions need answers. Problems contain affirmations and questions. Solutions contain confirmations and answers. This is complexity. It is a game of building blocks that require each other to support each other.
+
 The two functions log and choose, which execute and generate new vectors, are part of a Lorenz system solved by a Lorenz attractor. The reason why an attractor is present and required, is because:
+
 our biologically evolved brain has the evolutionary goal to respect life’s battle with time to keep low entropy.
 
 hi, i’m your personality
+
 The actual prediction happening inside the brain is based on a vector clock for both live predictions involving new states and predictions solely based on saved states in behaviours. It is quite obvious that we’ll have values affected by various coincidental states, therefore as we “move in real time” we’ll have conflicting versions of events. For this reason, a vector clock is a fast way to determine forward and backward event occurrence and recurrence. This may not be the actual way predictions occur inside the brain, but if we’re ever to build it outside, it is a good algorithm to work with.
 
 wikipedia, a vector clock
+
 Inside our minds time is a closed loop representation. As apparently neither our conscious nor our intelligence are part of or working inside the space time continuum, time is therefore constructed artificially. From this perspective we can say evolution has already created “artificial” intelligence, since we’re layered up on top of the fabric of the universe. If it were otherwise, or if it is otherwise, we’d then surely be able to affect the space time continuum directly, which so far we don’t.
+
 Because of the required time representation, and of the strange attractor “shape” of our personality’s vector field, and of the dynamic system that governs our experience, time looks like a closed loop, an eight shaped figure, one loop made of possibilities and the other made of events. Our vector clock determines probabilities. But in doing so we can only have “partial ordering” of the events and the possibilities. This incompleteness, how we don’t tick exactly along with the universe itself, but in a made up fashion, creates synchronicity.
+
 “It’s a poor sort of memory that only works backwards”, the queen said to Alice.
+
 Our vector clocks and predictions make it so that:
+
 for a causal world we have a synchronous model.
+
 The Jungian theory of synchronicity was an explanation for a natural effect of how our minds work, and by all means it is very real. Not real as in accurate or true, real as part of our reality, real to us by creating the illusion of cause and effect. Subjectively, there is no cause and effect, there is only synchronicity.
+
 The predictions of our vector clock create perception vectors from causes to effects. Psychologically, this type of vectors are questions. The abstract forming of a question is the act of prediction. That is creating a vector in the domain of causes pointing somewhere into the range of effects. We perceive this vector clock in action by three phases: curiosity, arousal and release. These three phases make a question.
+
 To recap, a brief correspondence between biological intelligence and a possible replication as artificial intelligence is as follows:
+
 Perceptions   = Values
+
 States        = Vectors
+
 Behaviours    = Matrices
+
 Personality   = Vector field
+
 Experience    = Dynamical system
+
 Prediction    = Vector clock
+
 The item that is somewhat vague is perceptions = values. The key here is that all the brain’s scalar functions (will, grammar, art and perception) all do the same thing:
+
 input -> convert -> value
+
 They generate patterns. Just like for digestion we break down what we ingest into basic sugars and fats, the same way the input reaching our brain is broken down into simpler representations which are then output as values for the overall system. We don’t know exactly how these scalar functions work, but if they are real it means we can replicate them: as long as we can get input from the real world, we could then simply invent a way to convert things to some strong typed values and make patterns out of those. That’s it. The process is not hard, the data collection is.
+
 If the levels of AI will be handled each by their own separate domains (sensors, robotics, natural language and virtual reality) the future will be really complicated because what we’ll call “true” AI will be a replica of how we work. And if that happens there will be a huge incentive to split ourselves in two: the self and the software running the self. In doing so we can, of course, live forever, but also copy and better ourselves iteratively.
+
 The biggest problem with this is that you may be able to undo yourself. That will create a big selective pressure for successful personalities to keep refining themselves. And just like with biology without a diverse society, new and fresh singletons will tend to vanish, leaving a huge incest prone personality pool. The second problem is creating multiple you and artificially increasing your success rate. Will the other weaker you let itself be terminated for the benefit of the better you?
+
 But, we may never able to digitally replicate our imperfect analogous personalities, yet still create by the work of many people true AI.
+
 Once you realise how automatic your “spirit” happens to be, existence becomes as random as it was designed to be. Then being humane is a choice, not an involuntary event. And when it is a choice, it can be started and stopped, easily.
+
 Being human has a very, very poor definition which it is more romantic than real. Being human basically means being alive, intelligent, aware and from the homo sapiens species. However we tend to give it this abstract meaning of spiritual existence. It is not bad and it reflects how deeply we are defined by our consecrating intelligence and awareness. Yet, we have a problem in dissociating logic from humanness, praising imperfection as intrinsically human, allowing obvious flaws to persist in our quest for remaining human or gaining human sense.
+
 What if the body is a clock and we age because we use it to keep time? Then maybe that light we all see when we die, is simply just of our first memory: the warm whiteness welcoming you to existence.
