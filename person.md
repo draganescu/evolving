@@ -1,64 +1,128 @@
 The person is the ego
+
 The problem with time is that it is passing so fast. Its like one day you’re young and full of hope, and the next day you’re almost old and full of nope. And then, the next day you’re old and almost gone. Not only does time pass so fast, but time is happening in so many things at once. Events happen in the environment, in the world, in others and in you. Since the brain is a software time machine, the many tracks of time and the speed of time’s execution presented challenges to which evolution responded.
+
 As we discussed previously, what we call the mind is a transitory state of the brain’s execution. Inside this state, the brain works on a constant execution of four algorithms: thought, emotion, sensation and sentiment. This state is quickly replaced with another. Replacing happens because the two brain functions, log and choose, are called in a recursive loop. The entire past state is the input for the present state. This helps the brain predict the future in real time, and forms the illusion of continuity.
+
 The problem with real time predictions is that it is a waste of resources, moreso when the degree of change is small. There is a reason why the less change occurs, the farther in time can we look. In order for real time predictions to be used for novelty, we evolved three caching mechanisms.
+
 A cache is known data that is associated to a unique key. The key itself is some kind of descriptor and if the cached descriptor matches the current descriptor then the known data is retrieved without the overhead of execution.
+
 The process that generates the caching key is association.
+
 It takes various input from context, environment, current precise and imprecise data, and generates a unique, or close to unique, key out of it. Association happens early in the recursive loop before the four formulas, will, perception, grammar and art, are called. This key will be incorporated into the output and used by the caching mechanisms in the future cycles.
+
 This three memeber caching mechanism is not used to make better predictions, but to be able to build on the shoulders of giants, to save on wasting time predicting known events. Caching “saves” three things: energy to process what we already had experienced, work to decide on known states and time to constantly adapt to a stable environment.
+
 Saving energy
+
 Learning is the energy saver of the brain. When we learn we basically save in our cache states that occur. Saving states is the most basic caching mechanism. It could be the main use of our memory space.
+
 Each state that learning saves is made of the resulting thoughts, emotions, sentiments and sensations that got output in the current execution cycle. One state can have all of these, or even only one, and each in various numbers by themselves.
+
 Learning connects output to create state.
+
 A state is the representation of a moment in time. Each saved state, or memory, will always have one of the four basic electrical properties: conduction, induction, resistance and capacity. This exhibited property of a state is meant to control the next execution cycle of the brain.
+
 Resistors block the next cycle by removing the input.
+
 Inductors add pace to the next cycle by saving the output of several cycles and infusing a future one with the whole collection of outputs.
+
 Capacitors repress the next cycle by removing output.
+
 Conductors don’t interfere with the next cycle creating what we call flow, when input is the previous output and so on and on.
+
 What we generally call “memory” is a very small subset of it holding information. But information is not really a memory, its simply storage. When real memory recollection occurs we experience a state all over again. One memory has a lot of information in it. For example words. Words are information. Memory is used to store them as information. Language retrieves this information. But a word is not a memory, it’s just information. A memory is a sentence, said with an intonation to convey meaning, to someone at a point in time in a certain place.
+
 Memories are recollected, information is retrieved.
+
 Memories makes us feel a certain way with every recollection. Because we experience a state all over again. For every electrical property a state has there are corresponding perceptions.
+
 Conducting states are perceived as lifters. Lifters are states such as meditation, compassion, detachment, continence or faith.
+
 Resisting states are perceived as downers. Downers are states such as abstinence, control, rationalisation, fatalism or mercy.
+
 Inducting states are perceived as energisers. Energisers are states such as acceptance, passion, love, communion or reasoning.
+
 Capacitive states are perceived as spirit killers, poisons. Poisons are sates such as lust, attachment, self love, blind faith or pride.
+
 It is interesting that when we have these states we are actually forming our selves in a very active manner. It could be that advice which guides the young to travel and open their horizons, does help after all, provided the travel happens as the hopefuls dream. But the thing is, we’re not creating any of the states.
+
 Our states of mind are what we learn about what happens to us.
+
 Saving work
+
 All states in separate and disconnected memory spaces do help to optimise for the speed problem, raised by time’s hasty flow. But we also require a way to keep up with time’s complexity. This process is the second caching mechanism: interpretation. All learned memories are interpreted. Through interpretation states are connected in such way that they become solutions to complex timelines, that is timelines with precipitating, random events. These solutions are our behaviors.
+
 Interpretation connects states to create behaviours.
+
 Behaviours are basically circuits of conductors, inductors, resistors and capacitors and they feature a trigger, just like an electric circuit features a switch. A behaviour is the representation of a specific succession of moments in time.
+
 Behaviours are both complicated and complex.
+
 Behaviours are complicated because one behaviour can inherit traits from another behaviour. A behaviour can depend on other behaviours and can have unclosed circuits because of erroneous interpretation.
+
 Behaviours are complex because once they get triggered they cannot be stopped. Really, they’re unstoppable even if we don’t feel it. A behaviour can fall back into the background, but it will keep executing. They are complex because interpretation connects together many states, who may or may not share the same environment that created them. This means that sometimes behaviours trigger in circumstances which are clearly wrong. They simply contain states created in these very circumstances.
+
 Saving time
+
 Consciousness connects behaviours to create a personality.
+
 You’ll notice that unlike learning and interpretation which create multiple caching points (many states, many behaviours), consciousness creates only one personality.
+
 Personality is the sum of all behaviours.
+
 Because a personality is an all encompassing representation of an entire experience, that is all moments in a life, it is not accessed or loaded entirely at the same time. At any given time only some personality is active, and we call these personality aspects.
+
 A useful summary of how the caching machanisms work, would be to describe how they relate to our perception of the cache: knowledge. When we feel we “know”, it is simply a matching key in our internal cache system. From this perspective:
+
 Learning = I know —
+
 Interpretation = I know I know —
+
 Consciousness = I know I don’t know —
+
 Awareness, this unexplainable feeling we experience almost constantly, is simply the running “I don’t know” inside our consciousness. If we center our attention we’ll see that our knowing stops with existential questions. Awareness spawned most likely from attempts to integrate the event of death and the immanence of death in one’s experience. For a system based on learning and interpretation death is akin to division by zero.
+
 In order to integrate behaviours into personality consciousness has three systems: the conscious, the unconscious and the subconscious. Each of the systems is layered like an onion handling different depths of personality. The less connected a behaviour to our personality, the higher up it is in the depth of our personality. The depth order is conscious, subconscious and unconscious.
+
 There is only one difference between the three systems: the level of awareness. Think about it, in the deep darkness of personality it appears as if everything is known. The experience of “i don’t know” subsides the more we dig up hardened behaviours. The consciousness process at unconscious levels only rearranges the same things over and over, and actually does know everything.
+
 The old saying, nothing beats experience is true after all. Shallow people don’t assimilate experience into their personality. They can be very experienced, have many learned states and interpreted behaviours, but a thin personality.
+
 Your ego is a savings account
+
 People are shaped by their experience. That is why fighting privilege and inequality is obviously important. It really is not easy for education and therapy to reshape personalities, because some parts of our consciousness are effectively unreachable.
+
 The recursiveness inside our heads makes us have ourselves perceiving ourselves, this creating the ego. We have one personality. The personality is real. There are two mirror reflections of our personality one inside, the ego and the other outside, the identity.
+
 Identity is the internal representation of an external personality. Thus, others create one’s identity and experiences create one’s personality. Hence the conflict: socially you are what other people make of your personality, aka your experience, while they have had none of your experience. You’re defined by noobs.
+
 Personality is generating originality. Identity is generating uniqueness. Uniqueness is less important than originality. To create uniqueness, one will discard some obvious good solutions, and from that perspective identity fails to help a human being.
+
 In this terms we should all be “faceless assassins” mr. Martin’s famous character, assassinating the identities others create about us, if not assassins then, at least, definitely faceless, changing, ever changing.
+
 An interesting aspect generated by the caching mechanisms are dreams. We dream because caching mechanisms are always on. While our sensory apparatus is depressed and motion is suppressed it follows that learning, interpretation and consciousness have all the time to sort trough things. But, without most of the regular waking input, the brain cycles just use cached data as input. Using for input cached data, instead of data provided by reality, is more the deeper the sleep. So, it follows:
+
 our dreams are the best representation of what experience has made of us.
+
 The case for artificial life
+
 Apparently we don’t need no ghost in the shell.
+
 If we can program the software and build the hardware, we will have artificial intelligence. But this AI thing once running will have effectively no goals. It will be an advanced tool which will provide answers to very complex problems, in human understandable formats.
+
 In order for us to really fear it, as you’d fear a being, we need to create a being, an artificial one, that means artificial life: AL.
+
 Artificial life is not only intelligent, it has the same goal as life in general: to defeat time because it is threatened by it. And, when we’ll create it, the artificial part will be lost, because, in the end, we’re meant to do it as our next evolutionary action towards time resilience.
+
 From intelligence to beingness we still have to cover the grounds of learning, interpretation and conscience. And even more, we must make the conscious decision to create open ended AI, an AI that has the same problem that life in general has, the running “i don’t know” theme which gives it awareness. We need to create AIs which allow division by zero and hope for the best.
+
 Without personality we can only make an amazingly useful AI/AL like Data was in Star Trek. Though, remember that episode, when the personality module was added, he wasn’t so useful anymore, wasn’t he?
+
 We already are in process of programming learning, with our new neural networks and machine learning systems. How do you program interpretation? Not that hard, except we need to fix our data to be queried by real time formed expressions or the system will never really know what it knows. But then, consciousness. Can an eternal computer become aware without the threat of its own destruction constantly pushing it?
+
 Once the artificially intelligent artificial life becomes aware of its own limitations and impending doom, then we’ll have a real challenge in a completely new trophic chain,
+
 … where we’ll be kings no more.
+
